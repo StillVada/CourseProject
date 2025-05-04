@@ -1,0 +1,12 @@
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Release\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Release\Methods.pdb
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Logic.csproj.AssemblyReference.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Logic.csproj.CoreCompileInputs.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.pdb
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\bin\Release\Methods.dll
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\bin\Release\Methods.pdb
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\obj\Release\Logic.csproj.AssemblyReference.cache
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\obj\Release\Methods.dll
+C:\Users\hitro\Downloads\courseProject\courseProject\Methods\obj\Release\Methods.pdb

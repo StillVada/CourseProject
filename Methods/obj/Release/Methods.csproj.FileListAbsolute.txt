@@ -1,0 +1,6 @@
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Release\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Release\Methods.pdb
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.csproj.AssemblyReference.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.csproj.CoreCompileInputs.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Release\Methods.pdb

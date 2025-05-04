@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp.Model.Dan">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAEAAAAgAABJBAAAAAAAAQAAQAAAAAAA=</HashCode>
+      <FileName>Model\Dan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Model.ResultArray">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Model\ResultArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Model.ResultArrayA">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ResultArrayA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Model.ResultArrayB">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Model\ResultArrayB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.ViewModel.VmMainWindow">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABQAAQIAJAEAQAAAgABAQAABRAhAAQAAACE=</HashCode>
+      <FileName>ViewModel\VmMainWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

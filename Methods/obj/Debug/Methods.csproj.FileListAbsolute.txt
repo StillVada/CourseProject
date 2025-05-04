@@ -1,0 +1,12 @@
+C:\Users\user-IVC\Downloads\courseProject\Methods\bin\Debug\Methods.dll
+C:\Users\user-IVC\Downloads\courseProject\Methods\bin\Debug\Methods.pdb
+C:\Users\user-IVC\Downloads\courseProject\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\user-IVC\Downloads\courseProject\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\user-IVC\Downloads\courseProject\Methods\obj\Debug\Methods.dll
+C:\Users\user-IVC\Downloads\courseProject\Methods\obj\Debug\Methods.pdb
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Debug\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\bin\Debug\Methods.pdb
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Debug\Methods.dll
+D:\Ресурсы\Программирование\С#\courseProject\Methods\obj\Debug\Methods.pdb
